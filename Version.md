@@ -51,3 +51,27 @@ This file serves as the immutable, append-only source of truth for all changes, 
     - `03-apktool-and-jadb.md`: Role of Apktool in reverse engineering and pure Java ADB socket communications.
     - `04-nowinandroid-and-ejs.md`: Architectural inspiration from Google's NowInAndroid and yt-dlp embedded JS challenge solver.
 - **Status:** Documentation suite complete and ready for git commit and push.
+
+
+## [1.1.0] - 2026-10-29 13:13:00+05:30
+### Release of User & Developer Wikis and Automated Upstream Sync Engine
+- **Action:** Created dedicated Community Wiki systems and automated CI/CD upstream tracking:
+  - `wiki/user-guide/`:
+    - `01-quick-start-guide.md`: End-to-end user handbook for installing Morphe Manager, obtaining target APKs, selecting recommended presets, and launching patched apps.
+    - `02-microg-and-account-setup.md`: Comprehensive MicroG-RE guide, disabling aggressive OEM battery killers (Samsung, Xiaomi, OnePlus), and fixing 2FA/sync issues.
+    - `03-root-vs-non-root-modes.md`: Deep comparison and step-by-step setup for Standard Non-Root, Shizuku rootless privileged mode, and Magisk/KernelSU root bind mount.
+    - `04-exporting-importing-and-keystores.md`: Safeguarding against `INSTALL_FAILED_UPDATE_INCOMPATIBLE` by exporting keystores, sharing patched APKs, and batch patching.
+    - `05-troubleshooting-and-faq.md`: Diagnostic handbook resolving YouTube 1:00 buffering (PoToken/Client Spoof), installation conflicts, push notifications, and Android Auto.
+  - `wiki/developer-guide/`:
+    - `01-high-velocity-patching-workflow.md`: Rapid patch authoring lifecycle, Gradle daemon tuning (`gradle.properties`), and JUnit 5 in-memory test harnesses executing in 1.2s.
+    - `02-reverse-engineering-toolchain.md`: JADX-GUI productivity shortcuts, finding invariant anchors across R8 obfuscation, and Dalvik register inspection.
+    - `03-writing-lightning-fast-patches.md`: Performance guidelines: zero-allocation render loops, using `ByteTrieSearch` over regex, and lazy resource decoding.
+    - `04-building-and-publishing-patch-bundles.md`: D8 Dex compilation into `.mpe`, bundling `.mpp` via Gradle, automated GitHub Releases CI/CD, and Morphe Manager dynamic source distribution.
+    - `05-app-specific-playbooks.md`: Practical recipes and bytecode snippets for YouTube (Ad Placements), YouTube Music (Background Playback), and Reddit (Promoted Posts).
+  - `Automation & Tooling`:
+    - `scripts/sync_upstream.py`: Python upstream scanner monitoring releases, tags, and commits across all 21 MorpheApp repositories.
+    - `upstream-manifest.json`: Baseline state capturing current versions across all 21 MorpheApp repos.
+    - `docs/upstream-changelog.md`: Real-time upstream ecosystem shift tracker.
+    - `.github/workflows/upstream-sync.yml`: Twice-daily GitHub Actions cron job tracking upstream releases and auto-committing updates.
+  - `README.md`: Updated with dedicated Community Wikis index and Automated Upstream Tracking references.
+- **Status:** Production-ready and pushed to GitHub main branch.

@@ -1,0 +1,149 @@
+{
+  "morphe-patches": {
+    "type": "release",
+    "tag": "v1.48.0",
+    "published_at": "2026-10-22T13:14:23Z",
+    "name": "v1.48.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0"
+  },
+  "morphe-desktop": {
+    "type": "release",
+    "tag": "v1.19.1",
+    "published_at": "2026-10-25T12:42:35Z",
+    "name": "v1.19.1",
+    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v1.19.1"
+  },
+  "morphe-manager": {
+    "type": "release",
+    "tag": "v2.2.0",
+    "published_at": "2026-10-25T12:56:56Z",
+    "name": "v2.2.0",
+    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.2.0"
+  },
+  "morphe-patches-library": {
+    "type": "release",
+    "tag": "v2.0.1",
+    "published_at": "2026-10-24T08:42:34Z",
+    "name": "v2.0.1",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.0.1"
+  },
+  "morphe-patcher": {
+    "type": "release",
+    "tag": "v2.0.1",
+    "published_at": "2026-10-25T12:22:35Z",
+    "name": "v2.0.1",
+    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.0.1"
+  },
+  "morphe-documentation": {
+    "type": "commit",
+    "sha": "5333560",
+    "message": "chore: Update oldest versions",
+    "date": "2026-10-28T12:17:38Z",
+    "html_url": "https://github.com/MorpheApp/morphe-documentation/commit/533356050d990de5d681888ee79d376b0b6b02b1"
+  },
+  "morphe-website": {
+    "type": "commit",
+    "sha": "3158f2e",
+    "message": "chore: Merge branch `dev` to `main` (#237)",
+    "date": "2026-10-28T10:00:38Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/3158f2e08a2ce929855342674d4df0511b849caf"
+  },
+  "morphe-patches-gradle-plugin": {
+    "type": "commit",
+    "sha": "c158697",
+    "message": "chore: Release v2.0.0 [skip ci]",
+    "date": "2026-10-22T10:21:50Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/c158697065aa77ee87996991281220949e603728"
+  },
+  "morphe-patches-template": {
+    "type": "commit",
+    "sha": "e721536",
+    "message": "chore: Merge branch `dev` to `main` (#68)",
+    "date": "2026-10-22T10:25:59Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/e721536ab19e30d16ce9d31ae1830ca299aad383"
+  },
+  "changelog": {
+    "type": "commit",
+    "sha": "f3d88b2",
+    "message": "refactor: Move to ES modules and repair the tests",
+    "date": "2026-10-26T10:36:09Z",
+    "html_url": "https://github.com/MorpheApp/changelog/commit/f3d88b22e0276c44e76907bed292f3cdd96873f9"
+  },
+  "MicroG-RE": {
+    "type": "release",
+    "tag": "7.2.2",
+    "published_at": "2026-10-21T11:07:43Z",
+    "name": "7.2.2",
+    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.2.2"
+  },
+  "ARSCLib": {
+    "type": "commit",
+    "sha": "4695b58",
+    "message": "fix: Release the native memory of inflated entries on close",
+    "date": "2026-10-25T09:06:21Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/4695b583ef51890ce283f3f2e0f6f63dff230ef0"
+  },
+  "smali": {
+    "type": "commit",
+    "sha": "b6365a8",
+    "message": "build: jdk11 for build",
+    "date": "2025-11-20T12:06:33Z",
+    "html_url": "https://github.com/MorpheApp/smali/commit/b6365a84f40c8355af14004dcf7b8324ee050b9f"
+  },
+  "PotHelper": {
+    "type": "release",
+    "tag": "v1.1.1",
+    "published_at": "2026-08-28T09:43:41Z",
+    "name": "v1.1.1",
+    "html_url": "https://github.com/MorpheApp/PotHelper/releases/tag/v1.1.1"
+  },
+  "morphe-library": {
+    "type": "release",
+    "tag": "v1.4.0",
+    "published_at": "2026-07-14T07:55:41Z",
+    "name": "v1.4.0",
+    "html_url": "https://github.com/MorpheApp/morphe-library/releases/tag/v1.4.0"
+  },
+  "jadb": {
+    "type": "commit",
+    "sha": "6fdaa5b",
+    "message": "[skip ci] prepare for next development iteration",
+    "date": "2026-05-04T21:21:57Z",
+    "html_url": "https://github.com/MorpheApp/jadb/commit/6fdaa5bec8369487e6c9d0460f02ac9970709d34"
+  },
+  "multidexlib2": {
+    "type": "commit",
+    "sha": "41cccc6",
+    "message": "chore: Use same Gradle across dependent projects",
+    "date": "2026-03-13T07:29:47Z",
+    "html_url": "https://github.com/MorpheApp/multidexlib2/commit/41cccc644cf1804362f7aa2fae96a6ffe67ffd22"
+  },
+  "ejs": {
+    "type": "release",
+    "tag": "0.5.1",
+    "published_at": "2026-03-10T07:49:11Z",
+    "name": "yt-dlp-ejs 0.5.1",
+    "html_url": "https://github.com/MorpheApp/ejs/releases/tag/0.5.1"
+  },
+  "nowinandroid": {
+    "type": "release",
+    "tag": "0.1.2.1",
+    "published_at": "2026-02-18T01:23:29Z",
+    "name": "0.1.2.1",
+    "html_url": "https://github.com/MorpheApp/nowinandroid/releases/tag/0.1.2.1"
+  },
+  "Apktool": {
+    "type": "commit",
+    "sha": "a3f22c3",
+    "message": "build: start new dev cycle (3.0.0.r2-SNAPSHOT)",
+    "date": "2025-12-05T07:50:50Z",
+    "html_url": "https://github.com/MorpheApp/Apktool/commit/a3f22c3ab59860ee30312da8869e818648c24d38"
+  },
+  ".github": {
+    "type": "commit",
+    "sha": "245e6ad",
+    "message": "chore: Adjust url casing",
+    "date": "2026-01-23T19:30:03Z",
+    "html_url": "https://github.com/MorpheApp/.github/commit/245e6ad66b51407879ae5a7922808f69cf41a443"
+  }
+}

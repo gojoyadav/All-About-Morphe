@@ -116,6 +116,32 @@ Explore the in-depth technical documentation categorized across the 6 major volu
 
 ---
 
+## 📖 The Community Wikis
+
+### 👤 [User Wiki (Hands-On Handbook for Humans & AI)](wiki/user-guide/)
+- [**01. Quick Start Guide**](wiki/user-guide/01-quick-start-guide.md): 5-minute zero-to-one guide to installing Morphe Manager, picking APKs, and applying patches.
+- [**02. MicroG-RE & Account Setup**](wiki/user-guide/02-microg-and-account-setup.md): Complete setup for Google account login, 2FA, and disabling OEM battery optimization (Samsung, Xiaomi, OnePlus).
+- [**03. Root vs. Non-Root Installation Modes**](wiki/user-guide/03-root-vs-non-root-modes.md): In-depth comparison and setup for Standard Non-Root, Shizuku (wireless debugging), and Root Bind Mount.
+- [**04. Exporting, Importing & Keystores**](wiki/user-guide/04-exporting-importing-and-keystores.md): Safeguard against `INSTALL_FAILED_UPDATE_INCOMPATIBLE`, export patched APKs, and run batch patching.
+- [**05. Troubleshooting & FAQ**](wiki/user-guide/05-troubleshooting-and-faq.md): Step-by-step remedies for video buffering at 1:00, package conflict errors, missing notifications, and car head-units.
+
+### 🛠️ [Developer Wiki (High-Speed Patch Building)](wiki/developer-guide/)
+- [**01. High-Velocity Patching Workflow**](wiki/developer-guide/01-high-velocity-patching-workflow.md): Rapid development lifecycle, Gradle daemon tuning, and sub-second unit test harnesses.
+- [**02. Reverse Engineering Toolchain**](wiki/developer-guide/02-reverse-engineering-toolchain.md): Navigating R8 obfuscated APKs in JADX-GUI, finding invariant anchors, and Smali register inspection.
+- [**03. Writing Lightning-Fast Patches**](wiki/developer-guide/03-writing-lightning-fast-patches.md): Performance engineering: zero-allocation render loops, using `ByteTrieSearch` over regex, and lazy decoding.
+- [**04. Building & Publishing Patch Bundles**](wiki/developer-guide/04-building-and-publishing-patch-bundles.md): Compiling `.mpe` with D8, packaging `.mpp` containers via Gradle, and publishing to GitHub for Morphe Manager.
+- [**05. App-Specific Playbooks**](wiki/developer-guide/05-app-specific-playbooks.md): Concrete opcode snippets and bytecode injection recipes for YouTube, YouTube Music, and Reddit.
+
+---
+
+## 🔄 Automated Upstream Tracking
+
+This repository continuously monitors all 21 MorpheApp upstream repositories via an automated GitHub Actions cron workflow ([`.github/workflows/upstream-sync.yml`](.github/workflows/upstream-sync.yml)).
+- **Live Ecosystem State:** Check [`upstream-manifest.json`](upstream-manifest.json) for currently tracked releases and SHAs.
+- **Upstream History:** Check [`docs/upstream-changelog.md`](docs/upstream-changelog.md) for automated ecosystem shift logs.
+
+---
+
 ## ⚖️ Legal & Security Framework
 
 Morphe operates under a clean-room, strictly legal architecture:

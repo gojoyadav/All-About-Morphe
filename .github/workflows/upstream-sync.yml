@@ -1,0 +1,39 @@
+name: Sync Upstream MorpheApp Ecosystem
+
+on:
+  schedule:
+    # Run twice daily at 00:00 and 12:00 UTC
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-upstream:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Upstream Scanner
+        id: scanner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/sync_upstream.py
+
+      - name: Commit and Push Updates
+        if: steps.scanner.outputs.has_updates == 'true'
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add upstream-manifest.json docs/upstream-changelog.md
+          git commit -m "chore(upstream): sync MorpheApp ecosystem tracking [skip ci]"
+          git push origin main
