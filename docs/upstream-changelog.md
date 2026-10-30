@@ -24,3 +24,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **nowinandroid**: Initial baseline tracked (`0.1.2.1`)
 - **Apktool**: Initial baseline tracked (`a3f22c3`)
 - **.github**: Initial baseline tracked (`245e6ad`)
+
+### Upstream Sync Check — 2026-10-30 00:22:56 UTC
+- **morphe-website**: New Commit [b0ceda1](https://github.com/MorpheApp/morphe-website/commit/b0ceda19805884925cc200fd5e89affa1584f619) - chore: Merge branch `dev` to `main` (#240)

@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "3158f2e",
-    "message": "chore: Merge branch `dev` to `main` (#237)",
-    "date": "2026-10-28T10:00:38Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/3158f2e08a2ce929855342674d4df0511b849caf"
+    "sha": "b0ceda1",
+    "message": "chore: Merge branch `dev` to `main` (#240)",
+    "date": "2026-10-29T18:32:37Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/b0ceda19805884925cc200fd5e89affa1584f619"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
