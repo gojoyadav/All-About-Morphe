@@ -27,3 +27,11 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-10-30 00:22:56 UTC
 - **morphe-website**: New Commit [b0ceda1](https://github.com/MorpheApp/morphe-website/commit/b0ceda19805884925cc200fd5e89affa1584f619) - chore: Merge branch `dev` to `main` (#240)
+
+### Upstream Sync Check — 2026-10-30 12:26:54 UTC
+- **morphe-patches**: New Release [v2.0.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.0.0) (was `v1.48.0`)
+- **morphe-desktop**: New Release [v1.20.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v1.20.0) (was `v1.19.1`)
+- **morphe-manager**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.3.0) (was `v2.2.0`)
+- **morphe-patches-library**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.1.0) (was `v2.0.1`)
+- **morphe-patcher**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.1.0) (was `v2.0.1`)
+- **morphe-patches-template**: New Commit [6188846](https://github.com/MorpheApp/morphe-patches-template/commit/618884693088862fe9b95f65d2afcb4a77b3fe2f) - chore: Show new features before bug fixes in release notes
