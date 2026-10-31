@@ -35,3 +35,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches-library**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.1.0) (was `v2.0.1`)
 - **morphe-patcher**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.1.0) (was `v2.0.1`)
 - **morphe-patches-template**: New Commit [6188846](https://github.com/MorpheApp/morphe-patches-template/commit/618884693088862fe9b95f65d2afcb4a77b3fe2f) - chore: Show new features before bug fixes in release notes
+
+### Upstream Sync Check — 2026-10-31 00:25:27 UTC
+- **morphe-patches-template**: New Commit [f4da72f](https://github.com/MorpheApp/morphe-patches-template/commit/f4da72f66e008c5bb021a9f19b33dcf5f0523772) - chore: Show features and improvements before bug fixes in release notes

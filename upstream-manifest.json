@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "6188846",
-    "message": "chore: Show new features before bug fixes in release notes",
-    "date": "2026-10-30T12:24:45Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/618884693088862fe9b95f65d2afcb4a77b3fe2f"
+    "sha": "f4da72f",
+    "message": "chore: Show features and improvements before bug fixes in release notes",
+    "date": "2026-10-30T12:30:38Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/f4da72f66e008c5bb021a9f19b33dcf5f0523772"
   },
   "changelog": {
     "type": "commit",
