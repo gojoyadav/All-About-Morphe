@@ -38,3 +38,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-10-31 00:25:27 UTC
 - **morphe-patches-template**: New Commit [f4da72f](https://github.com/MorpheApp/morphe-patches-template/commit/f4da72f66e008c5bb021a9f19b33dcf5f0523772) - chore: Show features and improvements before bug fixes in release notes
+
+### Upstream Sync Check — 2026-10-31 12:24:17 UTC
+- **MicroG-RE**: New Release [7.3.0](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.0) (was `7.2.2`)

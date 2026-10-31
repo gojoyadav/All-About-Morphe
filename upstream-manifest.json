@@ -71,10 +71,10 @@
   },
   "MicroG-RE": {
     "type": "release",
-    "tag": "7.2.2",
-    "published_at": "2026-10-21T11:07:43Z",
-    "name": "7.2.2",
-    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.2.2"
+    "tag": "7.3.0",
+    "published_at": "2026-10-31T08:21:08Z",
+    "name": "7.3.0",
+    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.0"
   },
   "ARSCLib": {
     "type": "commit",
