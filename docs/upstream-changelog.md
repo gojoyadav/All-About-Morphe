@@ -41,3 +41,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-10-31 12:24:17 UTC
 - **MicroG-RE**: New Release [7.3.0](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.0) (was `7.2.2`)
+
+### Upstream Sync Check — 2026-11-01 00:24:03 UTC
+- **morphe-website**: New Commit [b1831a6](https://github.com/MorpheApp/morphe-website/commit/b1831a66feb07b5c1aa3a588d03936d5390fc4c1) - chore: Fix typos in Azerbaijani localization (#245)
