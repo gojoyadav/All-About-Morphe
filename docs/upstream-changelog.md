@@ -44,3 +44,8 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-01 00:24:03 UTC
 - **morphe-website**: New Commit [b1831a6](https://github.com/MorpheApp/morphe-website/commit/b1831a66feb07b5c1aa3a588d03936d5390fc4c1) - chore: Fix typos in Azerbaijani localization (#245)
+
+### Upstream Sync Check — 2026-11-02 00:24:50 UTC
+- **morphe-website**: New Commit [0ee51c8](https://github.com/MorpheApp/morphe-website/commit/0ee51c8df08da6cb3c8c3e4427d02af180c07ec9) - chore: Add missing image
+- **morphe-patches-gradle-plugin**: New Commit [9974a20](https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/9974a20f4a2c7614e5faa4ba8663ccf97e865469) - chore: Merge branch `dev` to `main` (#48)
+- **morphe-patches-template**: New Commit [2b10c48](https://github.com/MorpheApp/morphe-patches-template/commit/2b10c48e1fc7b85c136dad949e703d3f1118130c) - chore: Merge branch `dev` to `main` (#73)

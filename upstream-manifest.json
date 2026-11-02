@@ -43,24 +43,24 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "b1831a6",
-    "message": "chore: Fix typos in Azerbaijani localization (#245)",
-    "date": "2026-10-31T16:11:54Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/b1831a66feb07b5c1aa3a588d03936d5390fc4c1"
+    "sha": "0ee51c8",
+    "message": "chore: Add missing image",
+    "date": "2026-11-01T16:24:56Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/0ee51c8df08da6cb3c8c3e4427d02af180c07ec9"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
-    "sha": "c158697",
-    "message": "chore: Release v2.0.0 [skip ci]",
-    "date": "2026-10-22T10:21:50Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/c158697065aa77ee87996991281220949e603728"
+    "sha": "9974a20",
+    "message": "chore: Merge branch `dev` to `main` (#48)",
+    "date": "2026-11-01T17:09:01Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/9974a20f4a2c7614e5faa4ba8663ccf97e865469"
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "f4da72f",
-    "message": "chore: Show features and improvements before bug fixes in release notes",
-    "date": "2026-10-30T12:30:38Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/f4da72f66e008c5bb021a9f19b33dcf5f0523772"
+    "sha": "2b10c48",
+    "message": "chore: Merge branch `dev` to `main` (#73)",
+    "date": "2026-11-01T18:09:17Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/2b10c48e1fc7b85c136dad949e703d3f1118130c"
   },
   "changelog": {
     "type": "commit",
