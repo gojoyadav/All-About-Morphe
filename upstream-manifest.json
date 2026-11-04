@@ -8,17 +8,17 @@
   },
   "morphe-desktop": {
     "type": "release",
-    "tag": "v1.20.0",
-    "published_at": "2026-10-30T11:58:35Z",
-    "name": "v1.20.0",
-    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v1.20.0"
+    "tag": "v2.0.0",
+    "published_at": "2026-11-04T08:25:20Z",
+    "name": "v2.0.0",
+    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.0.0"
   },
   "morphe-manager": {
     "type": "release",
-    "tag": "v2.3.0",
-    "published_at": "2026-10-30T12:26:04Z",
-    "name": "v2.3.0",
-    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.3.0"
+    "tag": "v2.4.0",
+    "published_at": "2026-11-04T08:32:45Z",
+    "name": "v2.4.0",
+    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.4.0"
   },
   "morphe-patches-library": {
     "type": "release",
@@ -29,10 +29,10 @@
   },
   "morphe-patcher": {
     "type": "release",
-    "tag": "v2.1.0",
-    "published_at": "2026-10-30T11:20:22Z",
-    "name": "v2.1.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.1.0"
+    "tag": "v2.2.0",
+    "published_at": "2026-11-04T07:51:23Z",
+    "name": "v2.2.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.2.0"
   },
   "morphe-documentation": {
     "type": "commit",
@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "2b10c48",
-    "message": "chore: Merge branch `dev` to `main` (#73)",
-    "date": "2026-11-01T18:09:17Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/2b10c48e1fc7b85c136dad949e703d3f1118130c"
+    "sha": "ff6530e",
+    "message": "chore: Update Patcher dependency",
+    "date": "2026-11-04T08:21:54Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/ff6530e08fd8ef6593430f94791f0d118564ad7b"
   },
   "changelog": {
     "type": "commit",

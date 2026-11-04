@@ -49,3 +49,9 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-website**: New Commit [0ee51c8](https://github.com/MorpheApp/morphe-website/commit/0ee51c8df08da6cb3c8c3e4427d02af180c07ec9) - chore: Add missing image
 - **morphe-patches-gradle-plugin**: New Commit [9974a20](https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/9974a20f4a2c7614e5faa4ba8663ccf97e865469) - chore: Merge branch `dev` to `main` (#48)
 - **morphe-patches-template**: New Commit [2b10c48](https://github.com/MorpheApp/morphe-patches-template/commit/2b10c48e1fc7b85c136dad949e703d3f1118130c) - chore: Merge branch `dev` to `main` (#73)
+
+### Upstream Sync Check — 2026-11-04 12:39:09 UTC
+- **morphe-desktop**: New Release [v2.0.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.0.0) (was `v1.20.0`)
+- **morphe-manager**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.4.0) (was `v2.3.0`)
+- **morphe-patcher**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.2.0) (was `v2.1.0`)
+- **morphe-patches-template**: New Commit [ff6530e](https://github.com/MorpheApp/morphe-patches-template/commit/ff6530e08fd8ef6593430f94791f0d118564ad7b) - chore: Update Patcher dependency
