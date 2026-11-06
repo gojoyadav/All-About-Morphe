@@ -58,3 +58,10 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-06 00:31:11 UTC
 - **ARSCLib**: New Commit [675bed2](https://github.com/MorpheApp/ARSCLib/commit/675bed2de397097400ba6f0c808e28005ae5aa53) - feat: Report progress of reading resource tables and writing archives
+
+### Upstream Sync Check — 2026-11-06 12:42:56 UTC
+- **morphe-desktop**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.1.0) (was `v2.0.0`)
+- **morphe-manager**: New Release [v2.5.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.5.0) (was `v2.4.0`)
+- **morphe-patches-library**: New Release [v2.1.1](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.1.1) (was `v2.1.0`)
+- **morphe-patcher**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.3.0) (was `v2.2.0`)
+- **morphe-patches-template**: New Commit [1c818c1](https://github.com/MorpheApp/morphe-patches-template/commit/1c818c1cc78bacf57051cdad487d32d6d464dfeb) - chore: Merge branch `dev` to `main` (#76)
