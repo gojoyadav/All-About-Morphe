@@ -55,3 +55,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-manager**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.4.0) (was `v2.3.0`)
 - **morphe-patcher**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.2.0) (was `v2.1.0`)
 - **morphe-patches-template**: New Commit [ff6530e](https://github.com/MorpheApp/morphe-patches-template/commit/ff6530e08fd8ef6593430f94791f0d118564ad7b) - chore: Update Patcher dependency
+
+### Upstream Sync Check — 2026-11-06 00:31:11 UTC
+- **ARSCLib**: New Commit [675bed2](https://github.com/MorpheApp/ARSCLib/commit/675bed2de397097400ba6f0c808e28005ae5aa53) - feat: Report progress of reading resource tables and writing archives

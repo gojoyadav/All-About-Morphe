@@ -78,10 +78,10 @@
   },
   "ARSCLib": {
     "type": "commit",
-    "sha": "4695b58",
-    "message": "fix: Release the native memory of inflated entries on close",
-    "date": "2026-10-25T09:06:21Z",
-    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/4695b583ef51890ce283f3f2e0f6f63dff230ef0"
+    "sha": "675bed2",
+    "message": "feat: Report progress of reading resource tables and writing archives",
+    "date": "2026-11-05T13:51:38Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/675bed2de397097400ba6f0c808e28005ae5aa53"
   },
   "smali": {
     "type": "commit",
