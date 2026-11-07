@@ -1,17 +1,17 @@
 {
   "morphe-patches": {
     "type": "release",
-    "tag": "v2.0.0",
-    "published_at": "2026-10-30T11:16:04Z",
-    "name": "v2.0.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.0.0"
+    "tag": "v2.1.0",
+    "published_at": "2026-11-06T14:15:16Z",
+    "name": "v2.1.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0"
   },
   "morphe-desktop": {
     "type": "release",
-    "tag": "v2.1.0",
-    "published_at": "2026-11-06T10:02:01Z",
-    "name": "v2.1.0",
-    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.1.0"
+    "tag": "v2.1.1",
+    "published_at": "2026-11-06T18:33:52Z",
+    "name": "v2.1.1",
+    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.1.1"
   },
   "morphe-manager": {
     "type": "release",
@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "0ee51c8",
-    "message": "chore: Add missing image",
-    "date": "2026-11-01T16:24:56Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/0ee51c8df08da6cb3c8c3e4427d02af180c07ec9"
+    "sha": "13fc132",
+    "message": "chore: Update `Polish` language",
+    "date": "2026-11-06T22:22:57Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/13fc1320863d6d73a2689502fbe649ed6017bd62"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",

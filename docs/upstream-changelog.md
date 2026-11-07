@@ -65,3 +65,8 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches-library**: New Release [v2.1.1](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.1.1) (was `v2.1.0`)
 - **morphe-patcher**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.3.0) (was `v2.2.0`)
 - **morphe-patches-template**: New Commit [1c818c1](https://github.com/MorpheApp/morphe-patches-template/commit/1c818c1cc78bacf57051cdad487d32d6d464dfeb) - chore: Merge branch `dev` to `main` (#76)
+
+### Upstream Sync Check — 2026-11-07 00:27:05 UTC
+- **morphe-patches**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0) (was `v2.0.0`)
+- **morphe-desktop**: New Release [v2.1.1](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.1.1) (was `v2.1.0`)
+- **morphe-website**: New Commit [13fc132](https://github.com/MorpheApp/morphe-website/commit/13fc1320863d6d73a2689502fbe649ed6017bd62) - chore: Update `Polish` language
