@@ -70,3 +70,7 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches**: New Release [v2.1.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0) (was `v2.0.0`)
 - **morphe-desktop**: New Release [v2.1.1](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.1.1) (was `v2.1.0`)
 - **morphe-website**: New Commit [13fc132](https://github.com/MorpheApp/morphe-website/commit/13fc1320863d6d73a2689502fbe649ed6017bd62) - chore: Update `Polish` language
+
+### Upstream Sync Check — 2026-11-07 12:28:21 UTC
+- **morphe-website**: New Commit [9bbbf70](https://github.com/MorpheApp/morphe-website/commit/9bbbf70849f70eae1cdeefd57fe65e70212b1807) - chore(deps-dev): Bump marked from 18.1.2 to 18.1.3 (#248)
+- **smali**: New Commit [ac700e1](https://github.com/MorpheApp/smali/commit/ac700e1942d26a7374166dce35f6da049a10e1a5) - perf: Compare dex backed fields and methods by index and cache hash codes

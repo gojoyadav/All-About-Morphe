@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "13fc132",
-    "message": "chore: Update `Polish` language",
-    "date": "2026-11-06T22:22:57Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/13fc1320863d6d73a2689502fbe649ed6017bd62"
+    "sha": "9bbbf70",
+    "message": "chore(deps-dev): Bump marked from 18.1.2 to 18.1.3 (#248)",
+    "date": "2026-11-07T07:35:31Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/9bbbf70849f70eae1cdeefd57fe65e70212b1807"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
@@ -85,10 +85,10 @@
   },
   "smali": {
     "type": "commit",
-    "sha": "b6365a8",
-    "message": "build: jdk11 for build",
-    "date": "2025-11-20T12:06:33Z",
-    "html_url": "https://github.com/MorpheApp/smali/commit/b6365a84f40c8355af14004dcf7b8324ee050b9f"
+    "sha": "ac700e1",
+    "message": "perf: Compare dex backed fields and methods by index and cache hash codes",
+    "date": "2026-10-25T01:32:05Z",
+    "html_url": "https://github.com/MorpheApp/smali/commit/ac700e1942d26a7374166dce35f6da049a10e1a5"
   },
   "PotHelper": {
     "type": "release",
