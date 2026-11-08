@@ -74,3 +74,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 ### Upstream Sync Check — 2026-11-07 12:28:21 UTC
 - **morphe-website**: New Commit [9bbbf70](https://github.com/MorpheApp/morphe-website/commit/9bbbf70849f70eae1cdeefd57fe65e70212b1807) - chore(deps-dev): Bump marked from 18.1.2 to 18.1.3 (#248)
 - **smali**: New Commit [ac700e1](https://github.com/MorpheApp/smali/commit/ac700e1942d26a7374166dce35f6da049a10e1a5) - perf: Compare dex backed fields and methods by index and cache hash codes
+
+### Upstream Sync Check — 2026-11-08 12:27:21 UTC
+- **morphe-website**: New Commit [b9a9124](https://github.com/MorpheApp/morphe-website/commit/b9a9124a166eb2dadc3e66bd1418b37ac46ce5bb) - chore: Profiles who gave $50 or more in the past 30 days are considered "mega" donors even if they selected one time donatin
