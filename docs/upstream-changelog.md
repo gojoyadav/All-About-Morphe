@@ -77,3 +77,7 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-08 12:27:21 UTC
 - **morphe-website**: New Commit [b9a9124](https://github.com/MorpheApp/morphe-website/commit/b9a9124a166eb2dadc3e66bd1418b37ac46ce5bb) - chore: Profiles who gave $50 or more in the past 30 days are considered "mega" donors even if they selected one time donatin
+
+### Upstream Sync Check — 2026-11-10 00:26:35 UTC
+- **ARSCLib**: New Commit [8be6ff3](https://github.com/MorpheApp/ARSCLib/commit/8be6ff3e0bd5deb4efeeb3208a930582a2baaf7a) - perf: Write the resource table into the archive instead of to the buffer first
+- **smali**: New Commit [bbabf5f](https://github.com/MorpheApp/smali/commit/bbabf5f9980028daba64c19366483bbddc05cf01) - ci: Build with JDK 11

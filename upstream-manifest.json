@@ -78,17 +78,17 @@
   },
   "ARSCLib": {
     "type": "commit",
-    "sha": "675bed2",
-    "message": "feat: Report progress of reading resource tables and writing archives",
-    "date": "2026-11-05T13:51:38Z",
-    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/675bed2de397097400ba6f0c808e28005ae5aa53"
+    "sha": "8be6ff3",
+    "message": "perf: Write the resource table into the archive instead of to the buffer first",
+    "date": "2026-11-09T20:28:00Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/8be6ff3e0bd5deb4efeeb3208a930582a2baaf7a"
   },
   "smali": {
     "type": "commit",
-    "sha": "ac700e1",
-    "message": "perf: Compare dex backed fields and methods by index and cache hash codes",
-    "date": "2026-10-25T01:32:05Z",
-    "html_url": "https://github.com/MorpheApp/smali/commit/ac700e1942d26a7374166dce35f6da049a10e1a5"
+    "sha": "bbabf5f",
+    "message": "ci: Build with JDK 11",
+    "date": "2026-11-09T20:21:22Z",
+    "html_url": "https://github.com/MorpheApp/smali/commit/bbabf5f9980028daba64c19366483bbddc05cf01"
   },
   "PotHelper": {
     "type": "release",
