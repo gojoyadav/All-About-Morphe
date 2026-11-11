@@ -1,10 +1,10 @@
 {
   "morphe-patches": {
     "type": "release",
-    "tag": "v2.1.0",
-    "published_at": "2026-11-06T14:15:16Z",
-    "name": "v2.1.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0"
+    "tag": "v2.2.0",
+    "published_at": "2026-11-10T14:41:45Z",
+    "name": "v2.2.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.2.0"
   },
   "morphe-desktop": {
     "type": "release",

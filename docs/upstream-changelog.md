@@ -81,3 +81,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 ### Upstream Sync Check — 2026-11-10 00:26:35 UTC
 - **ARSCLib**: New Commit [8be6ff3](https://github.com/MorpheApp/ARSCLib/commit/8be6ff3e0bd5deb4efeeb3208a930582a2baaf7a) - perf: Write the resource table into the archive instead of to the buffer first
 - **smali**: New Commit [bbabf5f](https://github.com/MorpheApp/smali/commit/bbabf5f9980028daba64c19366483bbddc05cf01) - ci: Build with JDK 11
+
+### Upstream Sync Check — 2026-11-11 00:28:25 UTC
+- **morphe-patches**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.2.0) (was `v2.1.0`)
