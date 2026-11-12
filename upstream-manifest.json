@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "b9a9124",
-    "message": "chore: Profiles who gave $50 or more in the past 30 days are considered \"mega\" donors even if they selected one time donatin",
-    "date": "2026-11-08T08:13:43Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/b9a9124a166eb2dadc3e66bd1418b37ac46ce5bb"
+    "sha": "8ab9f5b",
+    "message": "chore: Merge branch `dev` to `main` (#250)",
+    "date": "2026-11-11T14:15:29Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/8ab9f5b6fbf41904bbb8bf350fb9f0a1d0492066"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",

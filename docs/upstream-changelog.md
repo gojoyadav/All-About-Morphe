@@ -84,3 +84,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-11 00:28:25 UTC
 - **morphe-patches**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.2.0) (was `v2.1.0`)
+
+### Upstream Sync Check — 2026-11-12 00:43:50 UTC
+- **morphe-website**: New Commit [8ab9f5b](https://github.com/MorpheApp/morphe-website/commit/8ab9f5b6fbf41904bbb8bf350fb9f0a1d0492066) - chore: Merge branch `dev` to `main` (#250)
