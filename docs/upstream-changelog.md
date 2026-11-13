@@ -87,3 +87,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-12 00:43:50 UTC
 - **morphe-website**: New Commit [8ab9f5b](https://github.com/MorpheApp/morphe-website/commit/8ab9f5b6fbf41904bbb8bf350fb9f0a1d0492066) - chore: Merge branch `dev` to `main` (#250)
+
+### Upstream Sync Check — 2026-11-13 12:45:15 UTC
+- **ARSCLib**: New Commit [50418a0](https://github.com/MorpheApp/ARSCLib/commit/50418a07a806f7fc6d8a567be81d951d6e360079) - fix: Tag each encoded package with its public.xml again

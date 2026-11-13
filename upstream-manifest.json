@@ -78,10 +78,10 @@
   },
   "ARSCLib": {
     "type": "commit",
-    "sha": "8be6ff3",
-    "message": "perf: Write the resource table into the archive instead of to the buffer first",
-    "date": "2026-11-09T20:28:00Z",
-    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/8be6ff3e0bd5deb4efeeb3208a930582a2baaf7a"
+    "sha": "50418a0",
+    "message": "fix: Tag each encoded package with its public.xml again",
+    "date": "2026-11-13T06:45:50Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/50418a07a806f7fc6d8a567be81d951d6e360079"
   },
   "smali": {
     "type": "commit",
