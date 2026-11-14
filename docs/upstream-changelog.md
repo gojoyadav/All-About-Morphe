@@ -90,3 +90,7 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-13 12:45:15 UTC
 - **ARSCLib**: New Commit [50418a0](https://github.com/MorpheApp/ARSCLib/commit/50418a07a806f7fc6d8a567be81d951d6e360079) - fix: Tag each encoded package with its public.xml again
+
+### Upstream Sync Check — 2026-11-14 12:27:35 UTC
+- **morphe-website**: New Commit [c7aaf21](https://github.com/MorpheApp/morphe-website/commit/c7aaf2198e05d6d9d18b2883a7ea4a9f9bb6eff7) - chore(deps-dev): Bump marked from 18.1.3 to 18.2.0 (#253)
+- **MicroG-RE**: New Release [7.3.1](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.1) (was `7.3.0`)
