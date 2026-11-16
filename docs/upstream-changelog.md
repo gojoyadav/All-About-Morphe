@@ -102,3 +102,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patcher**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.4.0) (was `v2.3.0`)
 - **morphe-patches-gradle-plugin**: New Commit [444bb41](https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/444bb41a1d841d9cd72a073397fc11ec96c7fcd3) - chore: Release v2.1.1 [skip ci]
 - **morphe-patches-template**: New Commit [08719ad](https://github.com/MorpheApp/morphe-patches-template/commit/08719ad16f50337be736793c8103c539bd5feeed) - chore: Merge branch `dev` to `main` (#77)
+
+### Upstream Sync Check — 2026-11-16 14:37:55 UTC
+- **morphe-patches**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0) (was `v2.2.0`)
