@@ -94,3 +94,11 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 ### Upstream Sync Check — 2026-11-14 12:27:35 UTC
 - **morphe-website**: New Commit [c7aaf21](https://github.com/MorpheApp/morphe-website/commit/c7aaf2198e05d6d9d18b2883a7ea4a9f9bb6eff7) - chore(deps-dev): Bump marked from 18.1.3 to 18.2.0 (#253)
 - **MicroG-RE**: New Release [7.3.1](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.1) (was `7.3.0`)
+
+### Upstream Sync Check — 2026-11-16 00:42:11 UTC
+- **morphe-desktop**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.2.0) (was `v2.1.1`)
+- **morphe-manager**: New Release [v2.6.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.6.0) (was `v2.5.0`)
+- **morphe-patches-library**: New Release [v2.2.0](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.2.0) (was `v2.1.1`)
+- **morphe-patcher**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.4.0) (was `v2.3.0`)
+- **morphe-patches-gradle-plugin**: New Commit [444bb41](https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/444bb41a1d841d9cd72a073397fc11ec96c7fcd3) - chore: Release v2.1.1 [skip ci]
+- **morphe-patches-template**: New Commit [08719ad](https://github.com/MorpheApp/morphe-patches-template/commit/08719ad16f50337be736793c8103c539bd5feeed) - chore: Merge branch `dev` to `main` (#77)
