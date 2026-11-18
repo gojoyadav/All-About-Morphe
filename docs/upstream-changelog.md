@@ -105,3 +105,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-16 14:37:55 UTC
 - **morphe-patches**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0) (was `v2.2.0`)
+
+### Upstream Sync Check — 2026-11-18 00:41:01 UTC
+- **morphe-website**: New Commit [fde1f1a](https://github.com/MorpheApp/morphe-website/commit/fde1f1ab521e6c19c837babcf6536f527701fa38) - chore: Cull unused analytics
