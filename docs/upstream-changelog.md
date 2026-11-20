@@ -108,3 +108,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-18 00:41:01 UTC
 - **morphe-website**: New Commit [fde1f1a](https://github.com/MorpheApp/morphe-website/commit/fde1f1ab521e6c19c837babcf6536f527701fa38) - chore: Cull unused analytics
+
+### Upstream Sync Check — 2026-11-20 12:48:17 UTC
+- **morphe-patches-template**: New Commit [655c56b](https://github.com/MorpheApp/morphe-patches-template/commit/655c56bf6b99999fb6bd7f897bb9b41cb2cf2155) - chore: Add optional icons to readme generator

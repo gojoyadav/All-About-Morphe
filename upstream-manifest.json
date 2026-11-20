@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "08719ad",
-    "message": "chore: Merge branch `dev` to `main` (#77)",
-    "date": "2026-11-15T14:28:11Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/08719ad16f50337be736793c8103c539bd5feeed"
+    "sha": "655c56b",
+    "message": "chore: Add optional icons to readme generator",
+    "date": "2026-11-20T09:12:38Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/655c56bf6b99999fb6bd7f897bb9b41cb2cf2155"
   },
   "changelog": {
     "type": "commit",
