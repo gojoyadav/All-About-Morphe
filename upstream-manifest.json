@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "655c56b",
-    "message": "chore: Add optional icons to readme generator",
-    "date": "2026-11-20T09:12:38Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/655c56bf6b99999fb6bd7f897bb9b41cb2cf2155"
+    "sha": "e00dc14",
+    "message": "chore: Modify readme generator to handle no app icon is available",
+    "date": "2026-11-20T13:34:48Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/e00dc144a0afda98fa6fdc52e5113e4d7f6a7198"
   },
   "changelog": {
     "type": "commit",

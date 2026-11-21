@@ -111,3 +111,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-20 12:48:17 UTC
 - **morphe-patches-template**: New Commit [655c56b](https://github.com/MorpheApp/morphe-patches-template/commit/655c56bf6b99999fb6bd7f897bb9b41cb2cf2155) - chore: Add optional icons to readme generator
+
+### Upstream Sync Check — 2026-11-21 00:37:17 UTC
+- **morphe-patches-template**: New Commit [e00dc14](https://github.com/MorpheApp/morphe-patches-template/commit/e00dc144a0afda98fa6fdc52e5113e4d7f6a7198) - chore: Modify readme generator to handle no app icon is available
