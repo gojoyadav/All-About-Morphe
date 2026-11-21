@@ -8,17 +8,17 @@
   },
   "morphe-desktop": {
     "type": "release",
-    "tag": "v2.2.0",
-    "published_at": "2026-11-15T13:53:00Z",
-    "name": "v2.2.0",
-    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.2.0"
+    "tag": "v2.3.0",
+    "published_at": "2026-11-21T10:19:34Z",
+    "name": "v2.3.0",
+    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.3.0"
   },
   "morphe-manager": {
     "type": "release",
-    "tag": "v2.6.0",
-    "published_at": "2026-11-15T15:14:23Z",
-    "name": "v2.6.0",
-    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.6.0"
+    "tag": "v2.7.0",
+    "published_at": "2026-11-21T10:12:55Z",
+    "name": "v2.7.0",
+    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.7.0"
   },
   "morphe-patches-library": {
     "type": "release",
@@ -29,10 +29,10 @@
   },
   "morphe-patcher": {
     "type": "release",
-    "tag": "v2.4.0",
-    "published_at": "2026-11-15T13:35:57Z",
-    "name": "v2.4.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.4.0"
+    "tag": "v2.5.0",
+    "published_at": "2026-11-21T09:36:34Z",
+    "name": "v2.5.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.5.0"
   },
   "morphe-documentation": {
     "type": "commit",
@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "fde1f1a",
-    "message": "chore: Cull unused analytics",
-    "date": "2026-11-17T13:21:02Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/fde1f1ab521e6c19c837babcf6536f527701fa38"
+    "sha": "dd2fbc2",
+    "message": "chore(deps-dev): Bump marked from 18.2.0 to 18.2.1 (#255)",
+    "date": "2026-11-21T07:41:49Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/dd2fbc2be8c26eba4ede330d552fc55e0e1d1946"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "e00dc14",
-    "message": "chore: Modify readme generator to handle no app icon is available",
-    "date": "2026-11-20T13:34:48Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/e00dc144a0afda98fa6fdc52e5113e4d7f6a7198"
+    "sha": "1d5c570",
+    "message": "chore: Update patcher dependency",
+    "date": "2026-11-21T09:28:20Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/1d5c5702cc217d57260dff8b74a170aa941219aa"
   },
   "changelog": {
     "type": "commit",

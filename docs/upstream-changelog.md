@@ -114,3 +114,10 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-21 00:37:17 UTC
 - **morphe-patches-template**: New Commit [e00dc14](https://github.com/MorpheApp/morphe-patches-template/commit/e00dc144a0afda98fa6fdc52e5113e4d7f6a7198) - chore: Modify readme generator to handle no app icon is available
+
+### Upstream Sync Check — 2026-11-21 12:35:35 UTC
+- **morphe-desktop**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.3.0) (was `v2.2.0`)
+- **morphe-manager**: New Release [v2.7.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.7.0) (was `v2.6.0`)
+- **morphe-patcher**: New Release [v2.5.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.5.0) (was `v2.4.0`)
+- **morphe-website**: New Commit [dd2fbc2](https://github.com/MorpheApp/morphe-website/commit/dd2fbc2be8c26eba4ede330d552fc55e0e1d1946) - chore(deps-dev): Bump marked from 18.2.0 to 18.2.1 (#255)
+- **morphe-patches-template**: New Commit [1d5c570](https://github.com/MorpheApp/morphe-patches-template/commit/1d5c5702cc217d57260dff8b74a170aa941219aa) - chore: Update patcher dependency
