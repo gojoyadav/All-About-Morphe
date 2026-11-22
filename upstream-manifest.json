@@ -22,10 +22,10 @@
   },
   "morphe-patches-library": {
     "type": "release",
-    "tag": "v2.2.0",
-    "published_at": "2026-11-15T13:47:12Z",
-    "name": "v2.2.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.2.0"
+    "tag": "v2.3.0",
+    "published_at": "2026-11-21T16:09:46Z",
+    "name": "v2.3.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.0"
   },
   "morphe-patcher": {
     "type": "release",
@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "1d5c570",
-    "message": "chore: Update patcher dependency",
-    "date": "2026-11-21T09:28:20Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/1d5c5702cc217d57260dff8b74a170aa941219aa"
+    "sha": "033a0e1",
+    "message": "chore: Check the whole patches file against the Android API",
+    "date": "2026-11-21T12:49:44Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/033a0e170962497915b7006dc019e5f25122f4e2"
   },
   "changelog": {
     "type": "commit",
@@ -71,10 +71,10 @@
   },
   "MicroG-RE": {
     "type": "release",
-    "tag": "7.3.1",
-    "published_at": "2026-11-14T08:53:06Z",
-    "name": "7.3.1",
-    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.1"
+    "tag": "7.3.2",
+    "published_at": "2026-11-21T18:15:29Z",
+    "name": "7.3.2",
+    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.2"
   },
   "ARSCLib": {
     "type": "commit",

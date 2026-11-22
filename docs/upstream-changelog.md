@@ -121,3 +121,8 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patcher**: New Release [v2.5.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.5.0) (was `v2.4.0`)
 - **morphe-website**: New Commit [dd2fbc2](https://github.com/MorpheApp/morphe-website/commit/dd2fbc2be8c26eba4ede330d552fc55e0e1d1946) - chore(deps-dev): Bump marked from 18.2.0 to 18.2.1 (#255)
 - **morphe-patches-template**: New Commit [1d5c570](https://github.com/MorpheApp/morphe-patches-template/commit/1d5c5702cc217d57260dff8b74a170aa941219aa) - chore: Update patcher dependency
+
+### Upstream Sync Check — 2026-11-22 00:29:34 UTC
+- **morphe-patches-library**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.0) (was `v2.2.0`)
+- **morphe-patches-template**: New Commit [033a0e1](https://github.com/MorpheApp/morphe-patches-template/commit/033a0e170962497915b7006dc019e5f25122f4e2) - chore: Check the whole patches file against the Android API
+- **MicroG-RE**: New Release [7.3.2](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.2) (was `7.3.1`)
