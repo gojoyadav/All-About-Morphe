@@ -129,3 +129,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-23 00:35:10 UTC
 - **morphe-manager**: New Release [v2.7.1](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.7.1) (was `v2.7.0`)
+
+### Upstream Sync Check — 2026-11-23 12:51:53 UTC
+- **morphe-website**: New Commit [05b41d5](https://github.com/MorpheApp/morphe-website/commit/05b41d514c8bff067f2490676c6c01a831748b86) - fix: Skip deployment when MicroG main branch has a dev version

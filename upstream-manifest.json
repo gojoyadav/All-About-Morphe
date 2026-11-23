@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "dd2fbc2",
-    "message": "chore(deps-dev): Bump marked from 18.2.0 to 18.2.1 (#255)",
-    "date": "2026-11-21T07:41:49Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/dd2fbc2be8c26eba4ede330d552fc55e0e1d1946"
+    "sha": "05b41d5",
+    "message": "fix: Skip deployment when MicroG main branch has a dev version",
+    "date": "2026-11-23T07:59:06Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/05b41d514c8bff067f2490676c6c01a831748b86"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
