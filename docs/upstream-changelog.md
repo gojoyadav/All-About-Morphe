@@ -126,3 +126,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches-library**: New Release [v2.3.0](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.0) (was `v2.2.0`)
 - **morphe-patches-template**: New Commit [033a0e1](https://github.com/MorpheApp/morphe-patches-template/commit/033a0e170962497915b7006dc019e5f25122f4e2) - chore: Check the whole patches file against the Android API
 - **MicroG-RE**: New Release [7.3.2](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.2) (was `7.3.1`)
+
+### Upstream Sync Check — 2026-11-23 00:35:10 UTC
+- **morphe-manager**: New Release [v2.7.1](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.7.1) (was `v2.7.0`)
