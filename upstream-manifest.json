@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "120f628",
-    "message": "chore: Update patches gradle plugin",
-    "date": "2026-11-23T13:54:35Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/120f6288307cddedad3095113b23081fbd32f2b8"
+    "sha": "5872eef",
+    "message": "chore: Merge branch `dev` to `main` (#79)",
+    "date": "2026-11-24T08:44:12Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/5872eef04b7dd90b1f15d2fa9316a1d613321871"
   },
   "changelog": {
     "type": "commit",
@@ -71,10 +71,10 @@
   },
   "MicroG-RE": {
     "type": "release",
-    "tag": "7.3.2",
-    "published_at": "2026-11-21T18:15:29Z",
-    "name": "7.3.2",
-    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.2"
+    "tag": "7.3.3",
+    "published_at": "2026-11-24T11:43:10Z",
+    "name": "7.3.3",
+    "html_url": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.3"
   },
   "ARSCLib": {
     "type": "commit",
