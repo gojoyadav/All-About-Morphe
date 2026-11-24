@@ -132,3 +132,7 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-23 12:51:53 UTC
 - **morphe-website**: New Commit [05b41d5](https://github.com/MorpheApp/morphe-website/commit/05b41d514c8bff067f2490676c6c01a831748b86) - fix: Skip deployment when MicroG main branch has a dev version
+
+### Upstream Sync Check — 2026-11-24 00:38:48 UTC
+- **morphe-patches-gradle-plugin**: New Commit [855f27f](https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/855f27f0fbb21a448813efcd71bd347535cd638a) - chore: Release v2.1.2 [skip ci]
+- **morphe-patches-template**: New Commit [120f628](https://github.com/MorpheApp/morphe-patches-template/commit/120f6288307cddedad3095113b23081fbd32f2b8) - chore: Update patches gradle plugin

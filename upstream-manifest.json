@@ -50,17 +50,17 @@
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
-    "sha": "444bb41",
-    "message": "chore: Release v2.1.1 [skip ci]",
-    "date": "2026-11-15T14:07:22Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/444bb41a1d841d9cd72a073397fc11ec96c7fcd3"
+    "sha": "855f27f",
+    "message": "chore: Release v2.1.2 [skip ci]",
+    "date": "2026-11-23T14:13:15Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-gradle-plugin/commit/855f27f0fbb21a448813efcd71bd347535cd638a"
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "033a0e1",
-    "message": "chore: Check the whole patches file against the Android API",
-    "date": "2026-11-21T12:49:44Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/033a0e170962497915b7006dc019e5f25122f4e2"
+    "sha": "120f628",
+    "message": "chore: Update patches gradle plugin",
+    "date": "2026-11-23T13:54:35Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/120f6288307cddedad3095113b23081fbd32f2b8"
   },
   "changelog": {
     "type": "commit",
