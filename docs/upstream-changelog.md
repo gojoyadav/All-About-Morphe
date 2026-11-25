@@ -145,3 +145,8 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches-template**: New Commit [4cb966a](https://github.com/MorpheApp/morphe-patches-template/commit/4cb966a5aa5ea70725aa5eb4531eea8f0e5549e6) - chore: Use the repository host in the download URL
 - **changelog**: New Commit [bd1d5aa](https://github.com/MorpheApp/changelog/commit/bd1d5aab2a103879ddda6df6158deb6a9e7122ac) - fix: Support repositories on Codeberg, GitLab and other hosts
 - **ARSCLib**: New Commit [6435903](https://github.com/MorpheApp/ARSCLib/commit/6435903152ec183d8fd26e3be888ef0c0f98c294) - perf: Read little more than the local headers when opening an archive
+
+### Upstream Sync Check — 2026-11-25 12:55:24 UTC
+- **morphe-website**: New Commit [eb2fb3b](https://github.com/MorpheApp/morphe-website/commit/eb2fb3bad8f461cf3e1770f56da6574906ec5ff6) - chore: Merge branch `dev` to `main` (#257)
+- **morphe-patches-template**: New Commit [8e854f0](https://github.com/MorpheApp/morphe-patches-template/commit/8e854f0814108309b68d552d609cafe3bb38df4c) - chore: Merge branch `dev` to `main` (#84)
+- **smali**: New Commit [5a5249e](https://github.com/MorpheApp/smali/commit/5a5249e22f448bd83a6f4d617fc7d196536fdb33) - perf: Compare dex backed fields and methods by index when skipping duplicates

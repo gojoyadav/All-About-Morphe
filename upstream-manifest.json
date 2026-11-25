@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "05b41d5",
-    "message": "fix: Skip deployment when MicroG main branch has a dev version",
-    "date": "2026-11-23T07:59:06Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/05b41d514c8bff067f2490676c6c01a831748b86"
+    "sha": "eb2fb3b",
+    "message": "chore: Merge branch `dev` to `main` (#257)",
+    "date": "2026-11-25T07:35:37Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/eb2fb3bad8f461cf3e1770f56da6574906ec5ff6"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "4cb966a",
-    "message": "chore: Use the repository host in the download URL",
-    "date": "2026-11-24T18:53:13Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/4cb966a5aa5ea70725aa5eb4531eea8f0e5549e6"
+    "sha": "8e854f0",
+    "message": "chore: Merge branch `dev` to `main` (#84)",
+    "date": "2026-11-25T11:51:44Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/8e854f0814108309b68d552d609cafe3bb38df4c"
   },
   "changelog": {
     "type": "commit",
@@ -85,10 +85,10 @@
   },
   "smali": {
     "type": "commit",
-    "sha": "bbabf5f",
-    "message": "ci: Build with JDK 11",
-    "date": "2026-11-09T20:21:22Z",
-    "html_url": "https://github.com/MorpheApp/smali/commit/bbabf5f9980028daba64c19366483bbddc05cf01"
+    "sha": "5a5249e",
+    "message": "perf: Compare dex backed fields and methods by index when skipping duplicates",
+    "date": "2026-11-25T06:34:41Z",
+    "html_url": "https://github.com/MorpheApp/smali/commit/5a5249e22f448bd83a6f4d617fc7d196536fdb33"
   },
   "PotHelper": {
     "type": "release",
