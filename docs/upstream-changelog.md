@@ -140,3 +140,8 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 ### Upstream Sync Check — 2026-11-24 12:52:33 UTC
 - **morphe-patches-template**: New Commit [5872eef](https://github.com/MorpheApp/morphe-patches-template/commit/5872eef04b7dd90b1f15d2fa9316a1d613321871) - chore: Merge branch `dev` to `main` (#79)
 - **MicroG-RE**: New Release [7.3.3](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.3.3) (was `7.3.2`)
+
+### Upstream Sync Check — 2026-11-25 00:41:34 UTC
+- **morphe-patches-template**: New Commit [4cb966a](https://github.com/MorpheApp/morphe-patches-template/commit/4cb966a5aa5ea70725aa5eb4531eea8f0e5549e6) - chore: Use the repository host in the download URL
+- **changelog**: New Commit [bd1d5aa](https://github.com/MorpheApp/changelog/commit/bd1d5aab2a103879ddda6df6158deb6a9e7122ac) - fix: Support repositories on Codeberg, GitLab and other hosts
+- **ARSCLib**: New Commit [6435903](https://github.com/MorpheApp/ARSCLib/commit/6435903152ec183d8fd26e3be888ef0c0f98c294) - perf: Read little more than the local headers when opening an archive

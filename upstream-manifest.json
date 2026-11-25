@@ -57,17 +57,17 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "5872eef",
-    "message": "chore: Merge branch `dev` to `main` (#79)",
-    "date": "2026-11-24T08:44:12Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/5872eef04b7dd90b1f15d2fa9316a1d613321871"
+    "sha": "4cb966a",
+    "message": "chore: Use the repository host in the download URL",
+    "date": "2026-11-24T18:53:13Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/4cb966a5aa5ea70725aa5eb4531eea8f0e5549e6"
   },
   "changelog": {
     "type": "commit",
-    "sha": "f3d88b2",
-    "message": "refactor: Move to ES modules and repair the tests",
-    "date": "2026-10-26T10:36:09Z",
-    "html_url": "https://github.com/MorpheApp/changelog/commit/f3d88b22e0276c44e76907bed292f3cdd96873f9"
+    "sha": "bd1d5aa",
+    "message": "fix: Support repositories on Codeberg, GitLab and other hosts",
+    "date": "2026-11-24T18:50:37Z",
+    "html_url": "https://github.com/MorpheApp/changelog/commit/bd1d5aab2a103879ddda6df6158deb6a9e7122ac"
   },
   "MicroG-RE": {
     "type": "release",
@@ -78,10 +78,10 @@
   },
   "ARSCLib": {
     "type": "commit",
-    "sha": "50418a0",
-    "message": "fix: Tag each encoded package with its public.xml again",
-    "date": "2026-11-13T06:45:50Z",
-    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/50418a07a806f7fc6d8a567be81d951d6e360079"
+    "sha": "6435903",
+    "message": "perf: Read little more than the local headers when opening an archive",
+    "date": "2026-11-24T19:27:13Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/6435903152ec183d8fd26e3be888ef0c0f98c294"
   },
   "smali": {
     "type": "commit",
