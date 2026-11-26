@@ -150,3 +150,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-website**: New Commit [eb2fb3b](https://github.com/MorpheApp/morphe-website/commit/eb2fb3bad8f461cf3e1770f56da6574906ec5ff6) - chore: Merge branch `dev` to `main` (#257)
 - **morphe-patches-template**: New Commit [8e854f0](https://github.com/MorpheApp/morphe-patches-template/commit/8e854f0814108309b68d552d609cafe3bb38df4c) - chore: Merge branch `dev` to `main` (#84)
 - **smali**: New Commit [5a5249e](https://github.com/MorpheApp/smali/commit/5a5249e22f448bd83a6f4d617fc7d196536fdb33) - perf: Compare dex backed fields and methods by index when skipping duplicates
+
+### Upstream Sync Check — 2026-11-26 00:41:11 UTC
+- **MicroG-RE**: New Release [7.4.0](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.4.0) (was `7.3.3`)
