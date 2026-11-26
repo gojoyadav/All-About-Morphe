@@ -1,38 +1,38 @@
 {
   "morphe-patches": {
     "type": "release",
-    "tag": "v2.3.0",
-    "published_at": "2026-11-16T13:10:51Z",
-    "name": "v2.3.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0"
+    "tag": "v2.4.0",
+    "published_at": "2026-11-26T08:15:22Z",
+    "name": "v2.4.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0"
   },
   "morphe-desktop": {
     "type": "release",
-    "tag": "v2.3.0",
-    "published_at": "2026-11-21T10:19:34Z",
-    "name": "v2.3.0",
-    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.3.0"
+    "tag": "v2.4.0",
+    "published_at": "2026-11-26T11:14:48Z",
+    "name": "v2.4.0",
+    "html_url": "https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.4.0"
   },
   "morphe-manager": {
     "type": "release",
-    "tag": "v2.7.1",
-    "published_at": "2026-11-22T13:52:59Z",
-    "name": "v2.7.1",
-    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.7.1"
+    "tag": "v2.8.0",
+    "published_at": "2026-11-26T11:04:02Z",
+    "name": "v2.8.0",
+    "html_url": "https://github.com/MorpheApp/morphe-manager/releases/tag/v2.8.0"
   },
   "morphe-patches-library": {
     "type": "release",
-    "tag": "v2.3.0",
-    "published_at": "2026-11-21T16:09:46Z",
-    "name": "v2.3.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.0"
+    "tag": "v2.3.1",
+    "published_at": "2026-11-26T09:03:51Z",
+    "name": "v2.3.1",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.1"
   },
   "morphe-patcher": {
     "type": "release",
-    "tag": "v2.5.0",
-    "published_at": "2026-11-21T09:36:34Z",
-    "name": "v2.5.0",
-    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.5.0"
+    "tag": "v2.6.0",
+    "published_at": "2026-11-26T08:37:36Z",
+    "name": "v2.6.0",
+    "html_url": "https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.6.0"
   },
   "morphe-documentation": {
     "type": "commit",
@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "8e854f0",
-    "message": "chore: Merge branch `dev` to `main` (#84)",
-    "date": "2026-11-25T11:51:44Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/8e854f0814108309b68d552d609cafe3bb38df4c"
+    "sha": "c3ad22b",
+    "message": "chore: Limit re-checks of closed issues to 2",
+    "date": "2026-11-26T15:21:47Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/c3ad22be58630324f94843954b2ae33b711e9739"
   },
   "changelog": {
     "type": "commit",
@@ -120,10 +120,10 @@
   },
   "ejs": {
     "type": "release",
-    "tag": "0.5.1",
-    "published_at": "2026-03-10T07:49:11Z",
-    "name": "yt-dlp-ejs 0.5.1",
-    "html_url": "https://github.com/MorpheApp/ejs/releases/tag/0.5.1"
+    "tag": "v0.8.1",
+    "published_at": "2026-11-26T07:03:00Z",
+    "name": "yt-dlp-ejs v0.8.1",
+    "html_url": "https://github.com/MorpheApp/ejs/releases/tag/v0.8.1"
   },
   "nowinandroid": {
     "type": "release",

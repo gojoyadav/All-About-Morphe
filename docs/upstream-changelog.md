@@ -153,3 +153,12 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 
 ### Upstream Sync Check — 2026-11-26 00:41:11 UTC
 - **MicroG-RE**: New Release [7.4.0](https://github.com/MorpheApp/MicroG-RE/releases/tag/7.4.0) (was `7.3.3`)
+
+### Upstream Sync Check — 2026-11-26 20:38:58 UTC
+- **morphe-patches**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0) (was `v2.3.0`)
+- **morphe-desktop**: New Release [v2.4.0](https://github.com/MorpheApp/morphe-desktop/releases/tag/v2.4.0) (was `v2.3.0`)
+- **morphe-manager**: New Release [v2.8.0](https://github.com/MorpheApp/morphe-manager/releases/tag/v2.8.0) (was `v2.7.1`)
+- **morphe-patches-library**: New Release [v2.3.1](https://github.com/MorpheApp/morphe-patches-library/releases/tag/v2.3.1) (was `v2.3.0`)
+- **morphe-patcher**: New Release [v2.6.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.6.0) (was `v2.5.0`)
+- **morphe-patches-template**: New Commit [c3ad22b](https://github.com/MorpheApp/morphe-patches-template/commit/c3ad22be58630324f94843954b2ae33b711e9739) - chore: Limit re-checks of closed issues to 2
+- **ejs**: New Release [v0.8.1](https://github.com/MorpheApp/ejs/releases/tag/v0.8.1) (was `0.5.1`)
