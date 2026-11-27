@@ -162,3 +162,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patcher**: New Release [v2.6.0](https://github.com/MorpheApp/morphe-patcher/releases/tag/v2.6.0) (was `v2.5.0`)
 - **morphe-patches-template**: New Commit [c3ad22b](https://github.com/MorpheApp/morphe-patches-template/commit/c3ad22be58630324f94843954b2ae33b711e9739) - chore: Limit re-checks of closed issues to 2
 - **ejs**: New Release [v0.8.1](https://github.com/MorpheApp/ejs/releases/tag/v0.8.1) (was `0.5.1`)
+
+### Upstream Sync Check — 2026-11-27 05:39:39 UTC
+- **morphe-patches-template**: New Commit [104bfed](https://github.com/MorpheApp/morphe-patches-template/commit/104bfedfcbb8d01936c9ab9554d8ea81414474ba) - chore: Rearrange readme sections

@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "c3ad22b",
-    "message": "chore: Limit re-checks of closed issues to 2",
-    "date": "2026-11-26T15:21:47Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/c3ad22be58630324f94843954b2ae33b711e9739"
+    "sha": "104bfed",
+    "message": "chore: Rearrange readme sections",
+    "date": "2026-11-26T23:27:35Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/104bfedfcbb8d01936c9ab9554d8ea81414474ba"
   },
   "changelog": {
     "type": "commit",
