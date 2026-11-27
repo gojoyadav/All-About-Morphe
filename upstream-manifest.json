@@ -57,10 +57,10 @@
   },
   "morphe-patches-template": {
     "type": "commit",
-    "sha": "104bfed",
-    "message": "chore: Rearrange readme sections",
-    "date": "2026-11-26T23:27:35Z",
-    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/104bfedfcbb8d01936c9ab9554d8ea81414474ba"
+    "sha": "e7d8e89",
+    "message": "chore: Merge branch `dev` to `main` (#100)",
+    "date": "2026-11-27T13:22:20Z",
+    "html_url": "https://github.com/MorpheApp/morphe-patches-template/commit/e7d8e8917f768cee8a7b82c8e74bba0cb5441329"
   },
   "changelog": {
     "type": "commit",
@@ -78,17 +78,17 @@
   },
   "ARSCLib": {
     "type": "commit",
-    "sha": "6435903",
-    "message": "perf: Read little more than the local headers when opening an archive",
-    "date": "2026-11-24T19:27:13Z",
-    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/6435903152ec183d8fd26e3be888ef0c0f98c294"
+    "sha": "e016e76",
+    "message": "fix: Compare the sort of both sources when ordering input sources",
+    "date": "2026-11-27T14:51:32Z",
+    "html_url": "https://github.com/MorpheApp/ARSCLib/commit/e016e76dcce891872da34a595b7ea27b524c1c91"
   },
   "smali": {
     "type": "commit",
-    "sha": "5a5249e",
-    "message": "perf: Compare dex backed fields and methods by index when skipping duplicates",
-    "date": "2026-11-25T06:34:41Z",
-    "html_url": "https://github.com/MorpheApp/smali/commit/5a5249e22f448bd83a6f4d617fc7d196536fdb33"
+    "sha": "aee934e",
+    "message": "perf: Copy the code of dex backed methods without decoding it",
+    "date": "2026-11-27T14:12:17Z",
+    "html_url": "https://github.com/MorpheApp/smali/commit/aee934e659ca1ec72b1651a149c1d07e7b0b1e7f"
   },
   "PotHelper": {
     "type": "release",
