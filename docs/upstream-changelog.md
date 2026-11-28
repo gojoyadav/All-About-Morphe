@@ -170,3 +170,6 @@ Automated tracker monitoring all 21 MorpheApp upstream repositories.
 - **morphe-patches-template**: New Commit [e7d8e89](https://github.com/MorpheApp/morphe-patches-template/commit/e7d8e8917f768cee8a7b82c8e74bba0cb5441329) - chore: Merge branch `dev` to `main` (#100)
 - **ARSCLib**: New Commit [e016e76](https://github.com/MorpheApp/ARSCLib/commit/e016e76dcce891872da34a595b7ea27b524c1c91) - fix: Compare the sort of both sources when ordering input sources
 - **smali**: New Commit [aee934e](https://github.com/MorpheApp/smali/commit/aee934e659ca1ec72b1651a149c1d07e7b0b1e7f) - perf: Copy the code of dex backed methods without decoding it
+
+### Upstream Sync Check — 2026-11-28 19:14:00 UTC
+- **morphe-website**: New Commit [2b16b71](https://github.com/MorpheApp/morphe-website/commit/2b16b71865de1233a72afc712631673202264c40) - chore(deps-dev): Bump terser from 5.51.2 to 5.51.4 (#258)

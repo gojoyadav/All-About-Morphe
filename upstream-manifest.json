@@ -43,10 +43,10 @@
   },
   "morphe-website": {
     "type": "commit",
-    "sha": "eb2fb3b",
-    "message": "chore: Merge branch `dev` to `main` (#257)",
-    "date": "2026-11-25T07:35:37Z",
-    "html_url": "https://github.com/MorpheApp/morphe-website/commit/eb2fb3bad8f461cf3e1770f56da6574906ec5ff6"
+    "sha": "2b16b71",
+    "message": "chore(deps-dev): Bump terser from 5.51.2 to 5.51.4 (#258)",
+    "date": "2026-11-28T07:43:53Z",
+    "html_url": "https://github.com/MorpheApp/morphe-website/commit/2b16b71865de1233a72afc712631673202264c40"
   },
   "morphe-patches-gradle-plugin": {
     "type": "commit",
